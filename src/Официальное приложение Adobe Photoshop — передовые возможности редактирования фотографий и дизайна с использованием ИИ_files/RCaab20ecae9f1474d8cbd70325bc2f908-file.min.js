@@ -1,0 +1,2 @@
+// For license information, see `RCaab20ecae9f1474d8cbd70325bc2f908-file.js` within the same directory.
+!function(){var t="marketingtech-bing",a=window,e=document.currentScript,n=a._satellite.getVar("_loadScript"),c="uetq";e&&(e.className=t),a[c]=a[c]||[],n("https://bat.bing.com/bat.js",(function(){a[c]=new a.UET({ti:"5190105",q:a[c]}),a[c].push("pageLoad")}),{className:t})}();
